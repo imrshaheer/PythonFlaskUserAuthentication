@@ -1,0 +1,11 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/users_db",
+        "production_uri": "",
+
+        "author": "Shaheer Ahmad"
+
+    }
+}
